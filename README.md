@@ -17,9 +17,9 @@ The Console Snake Game is a classic snake game implemented entirely in the conso
 - Background Music: Listen to background music while playing to enhance the gaming experience.
 
 - User-Friendly Interface: The game provides a user-friendly interface with clear instructions and controls.
-   - Start screen:
+   - Start screen: <br>
    ![Start Screen](./screenshots/main.png)
-   - End Screen:
+   - End Screen: <br>
    ![End Screen](./screenshots/game_over.png)
 
 - Easy to Run: You can run the game from any directory in your terminal, thanks to its flexible file loading system.
@@ -78,7 +78,7 @@ Make sure to install these dependencies on your system before running the game.
 
    ```bash
    ./main
-
+   ```
 
 ## Disclaimer
 
