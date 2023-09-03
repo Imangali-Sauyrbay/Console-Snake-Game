@@ -1,0 +1,25 @@
+# CMake build artifacts
+/build/
+/CMakeFiles/
+/CMakeScripts/
+/CMakeCache.txt
+/cmake_install.cmake
+
+# Compiled binary files
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Executables
+a.out
+
+# IDE and code editor files
+.vscode/
+.cbp/  # Code::Blocks
+.settings/  # Eclipse
+.idea/  # JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm)
+nbproject/  # NetBeans
+.vs/  # Visual Studio
+.xcodeproj/  # Xcode
